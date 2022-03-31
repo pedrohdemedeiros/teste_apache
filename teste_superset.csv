@@ -1,4 +1,4 @@
-sample,method,db;HitID
+sample,method,db,HitID
 E-coli,blastx,swissprot,sp|P0A3L3.1|
 E-coli,blastx,swissprot,sp|P0AAT8.1|
 E-coli,blastx,swissprot,sp|A4WEI9.1|
