@@ -1,16 +1,16 @@
-sample;method;db;PutativeOGMSource;HitID;HitTitle;PctId;EValue
-E-coli;blastx;swissprot;Agrobacterium tumefaciens (strain T37);sp|P0A3L3.1|;RecName: Full=Insertion element IS136 uncharacterized protein Atu4601 [Agrobacterium fabrum str. C58]<>RecName: Full=Insertion element IS136 uncharacterized protein [Agrobacterium tumefaciens (strain T37)];5625;1,7E-09
-E-coli;blastx;swissprot;Shigella flexneri;sp|P0AAT8.1|;RecName: Full=Ribosomal silencing factor RsfS [Shigella flexneri];9697;3,74E-12
-E-coli;blastx;swissprot;Enterobacter sp. 638;sp|A4WEI9.1|;"RecName: Full=Undecaprenyl-diphosphatase; AltName: Full=Bacitracin resistance protein; AltName: Full=Undecaprenyl pyrophosphate phosphatase [Enterobacter sp. 638]";100;5,99E-21
-E-coli;blastn;nt;Shigella sonnei strain SE6-1 chromosome, complete genome;gi|1862738216|gb|CP055292.1|;Shigella sonnei strain SE6-1 chromosome, complete genome;100;5,89E-78
-E-coli;blastn;nt;Shigella sonnei strain SE6-1 chromosome, complete genome;gi|1862738216|gb|CP055292.1|;Shigella sonnei strain SE6-1 chromosome, complete genome;100;5,89E-78
-E-coli;blastn;nt;Shigella flexneri strain FDAARGOS_714 chromosome;gi|1860443381|gb|CP055124.1|;Shigella flexneri strain FDAARGOS_714 chromosome;100;1,45E-68
-E-coli;blastn;nt;Shigella sonnei strain SE6-1 chromosome, complete genome;gi|1862738216|gb|CP055292.1|;Shigella sonnei strain SE6-1 chromosome, complete genome;100;1,45E-68
-E-coli;blastn;nt;Shigella sonnei strain SE6-1 chromosome, complete genome;gi|1862738216|gb|CP055292.1|;Shigella sonnei strain SE6-1 chromosome, complete genome;100;1,45E-68
-E-coli;blastn;nt;Shigella sonnei strain SE6-1 chromosome, complete genome;gi|1862738216|gb|CP055292.1|;Shigella sonnei strain SE6-1 chromosome, complete genome;100;1,45E-68
-E-coli;blastn;nt;Shigella sonnei strain SE6-1 chromosome, complete genome;gi|1862738216|gb|CP055292.1|;Shigella sonnei strain SE6-1 chromosome, complete genome;100;1,45E-68
-E-coli;blastn;nt;Shigella sonnei strain SE6-1 chromosome, complete genome;gi|1862738216|gb|CP055292.1|;Shigella sonnei strain SE6-1 chromosome, complete genome;98;1,46E-63
-E-coli;blastn;nt;Shigella sonnei strain SE6-1 chromosome, complete genome;gi|1862738216|gb|CP055292.1|;Shigella sonnei strain SE6-1 chromosome, complete genome;97333;6,79E-62
-E-coli;blastn;nt;Shigella sonnei strain SE6-1 chromosome, complete genome;gi|1862738216|gb|CP055292.1|;Shigella sonnei strain SE6-1 chromosome, complete genome;96;5,29E-58
-E-coli;blastn;nt;Salmonella sp. S13 chromosome, complete genome;gi|1799616543|gb|CP047094.1|;Salmonella sp. S13 chromosome, complete genome;100;1,45E-68
-E-coli;blastn;nt;Salmonella sp. S13 chromosome, complete genome;gi|1799616543|gb|CP047094.1|;Salmonella sp. S13 chromosome, complete genome;100;3,49E-59
+sample,method,db;HitID
+E-coli,blastx,swissprot,sp|P0A3L3.1|
+E-coli,blastx,swissprot,sp|P0AAT8.1|
+E-coli,blastx,swissprot,sp|A4WEI9.1|
+E-coli,blastn,nt,gi|1862738216|gb|CP055292.1|
+E-coli,blastn,nt,gi|1862738216|gb|CP055292.1|
+E-coli,blastn,nt,gi|1860443381|gb|CP055124.1|
+E-coli,blastn,nt,gi|1862738216|gb|CP055292.1|
+E-coli,blastn,nt,gi|1862738216|gb|CP055292.1|
+E-coli,blastn,nt,gi|1862738216|gb|CP055292.1|
+E-coli,blastn,nt,gi|1862738216|gb|CP055292.1|
+E-coli,blastn,nt,gi|1862738216|gb|CP055292.1|
+E-coli,blastn,nt,gi|1862738216|gb|CP055292.1|
+E-coli,blastn,nt,gi|1862738216|gb|CP055292.1|
+E-coli,blastn,nt,gi|1799616543|gb|CP047094.1|
+E-coli,blastn,nt,gi|1799616543|gb|CP047094.1|
